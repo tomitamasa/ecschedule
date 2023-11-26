@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.11.3](https://github.com/tomitamasa/ecschedule/compare/v0.11.2...v0.11.3) - 2023-11-26
+- Add config of trakingid by @tomitamasa in https://github.com/tomitamasa/ecschedule/pull/1
+
 ## [v0.11.2](https://github.com/Songmu/ecschedule/compare/v0.11.1...v0.11.2) - 2023-11-10
 - Care remote PropagateTags default value by @lamanotrama in https://github.com/Songmu/ecschedule/pull/89
 - build(deps): bump google.golang.org/grpc from 1.58.2 to 1.58.3 by @dependabot in https://github.com/Songmu/ecschedule/pull/88
